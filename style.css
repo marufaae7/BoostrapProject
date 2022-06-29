@@ -1,0 +1,17 @@
+.body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 2;
+
+}
+.size{
+    background: rgb(177, 14, 14);
+    height: 10rem;
+    width: 10rem;
+}
+.column{
+    background-color: aquamarine;
+   
+    
+
+}
